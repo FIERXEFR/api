@@ -46,5 +46,17 @@
     "created_at": 1768330687,
     "pending_days": 0,
     "banned": false
+  },
+  "7480316184": {
+    "user_id": 7480316184,
+    "username": "unromanticize",
+    "first_name": "PlayBaheCarti",
+    "plan": "None",
+    "days_left": 0,
+    "subscribed_at": 1768331100,
+    "expiry": 0,
+    "created_at": 1768331100,
+    "pending_days": 0,
+    "banned": false
   }
 }
