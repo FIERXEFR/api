@@ -45,6 +45,6 @@
     "expiry": 1768935742,
     "created_at": 1768330687,
     "pending_days": 0,
-    "banned": false
+    "banned": true
   }
 }
