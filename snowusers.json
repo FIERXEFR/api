@@ -58,5 +58,17 @@
     "created_at": 1768331100,
     "pending_days": 0,
     "banned": false
+  },
+  "8505697227": {
+    "user_id": 8505697227,
+    "username": "Ftyvvjji",
+    "first_name": "\ud83d\udeabClosed\ud83d\udeab",
+    "plan": "None",
+    "days_left": 0,
+    "subscribed_at": 1768332574,
+    "expiry": 0,
+    "created_at": 1768332574,
+    "pending_days": 0,
+    "banned": false
   }
 }
