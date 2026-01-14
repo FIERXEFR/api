@@ -94,5 +94,17 @@
     "created_at": 1768340439,
     "pending_days": 0,
     "banned": false
+  },
+  "8066674599": {
+    "user_id": 8066674599,
+    "username": "N/A",
+    "first_name": "Abir",
+    "plan": "None",
+    "days_left": 0,
+    "subscribed_at": 1768377005,
+    "expiry": 0,
+    "created_at": 1768377005,
+    "pending_days": 0,
+    "banned": false
   }
 }
