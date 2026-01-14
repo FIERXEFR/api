@@ -130,5 +130,17 @@
     "created_at": 1768379301,
     "pending_days": 0,
     "banned": false
+  },
+  "6498741595": {
+    "user_id": 6498741595,
+    "username": "N/A",
+    "first_name": "Rehan",
+    "plan": "None",
+    "days_left": 0,
+    "subscribed_at": 1768393151,
+    "expiry": 0,
+    "created_at": 1768393151,
+    "pending_days": 0,
+    "banned": false
   }
 }
