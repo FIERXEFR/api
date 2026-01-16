@@ -226,5 +226,17 @@
     "created_at": 1768569645,
     "pending_days": 0,
     "banned": false
+  },
+  "7874805354": {
+    "user_id": 7874805354,
+    "username": "JOD_NITIN",
+    "first_name": "\u23e4\u035f\u035e\u035f\ud835\udc11\ud835\udc06 NITIN !! \ud83d\udea9]",
+    "plan": "None",
+    "days_left": 0,
+    "subscribed_at": 1768570455,
+    "expiry": 0,
+    "created_at": 1768570455,
+    "pending_days": 0,
+    "banned": false
   }
 }
