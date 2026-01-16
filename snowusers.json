@@ -15,12 +15,12 @@
     "user_id": 1264573638,
     "username": "N/A",
     "first_name": "Fierxe \ud80c\udda9\ud808\udf10\ud80c\uddaa",
-    "plan": "None",
-    "days_left": 0,
-    "subscribed_at": 1768297984,
-    "expiry": 0,
+    "plan": "7d",
+    "days_left": 7,
+    "subscribed_at": 1768579125,
+    "expiry": 1769183925,
     "created_at": 1768297984,
-    "pending_days": 7,
+    "pending_days": 0,
     "banned": false
   },
   "6589281702": {
